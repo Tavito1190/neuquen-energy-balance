@@ -59,9 +59,9 @@ The project reflects the transition from a geological and upstream operational b
 ## 6. Project Documentation
 
 The following documents will be incorporated into this repository:
-
-- **Executive Summary (2026):** [View PDF] (documents/Resumen_Ejecutivo_Tesis%20Maestria_Neuquen_2026_5%20pag.pdf) — Five-page summary of the thesis, methodology, findings and conclusions.
-- **Original Master's Thesis (2016):** complete academic research document.
+ **Executive Summary (2026):** [View PDF](documents/Resumen_Ejecutivo_Tesis%20Maestria_Neuquen_2026_5%20pag.pdf) — Five-page summary of the thesis, methodology, findings and conclusions.
+ **Original Master's Thesis (2016–2017):** [View Full Thesis (PDF)](documents/MEPEA-Tesis%20G.Herrero%20v.f.%202017.pdf) — Complete academic research document in Spanish, completed in 2016 and defended in 2017
+- 
 
 Original documents are in Spanish. This README provides an English-language overview for international readers.
 
