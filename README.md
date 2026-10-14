@@ -70,3 +70,5 @@ Original documents are in Spanish. This README provides an English-language over
 [LinkedIn — Gustavo Herrero](https://www.linkedin.com/in/gustavoalfredoherreroiogna/)
 
 [GitHub — Professional Portfolio](https://github.com/Tavito1190)
+
+Portfolio project — Neuquén Energy Balance
