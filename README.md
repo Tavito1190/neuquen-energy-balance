@@ -60,7 +60,7 @@ The project reflects the transition from a geological and upstream operational b
 
 The following documents will be incorporated into this repository:
 
-- **Executive Summary (2026):** - **Executive Summary (2026):** [View PDF](documents/Resumen_Ejecutivo_Tesis%20Maestria_Neuquen_2026_5%20pag.pdf) — Five-page summary of the thesis, methodology, findings and conclusions.
+- **Executive Summary (2026):** [View PDF] (documents/Resumen_Ejecutivo_Tesis%20Maestria_Neuquen_2026_5%20pag.pdf) — Five-page summary of the thesis, methodology, findings and conclusions.
 - **Original Master's Thesis (2016):** complete academic research document.
 
 Original documents are in Spanish. This README provides an English-language overview for international readers.
